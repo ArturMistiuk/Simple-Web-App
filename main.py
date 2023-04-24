@@ -10,7 +10,7 @@ from urllib.parse import urlparse, unquote_plus
 
 
 FRONT_DIR = 'front-init/'
-HOST = '127.0.0.1'
+HOST = '0.0.0.0'
 HTTP_PORT = 3000
 SOCKET_PORT = 5000
 
